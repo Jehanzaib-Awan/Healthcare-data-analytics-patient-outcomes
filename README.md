@@ -36,6 +36,6 @@ The dataset contains patient health indicators and outcome information.
 
 ## Author Jehanzaib Awan
 
-Jehanzaib Awan
+
 
 
