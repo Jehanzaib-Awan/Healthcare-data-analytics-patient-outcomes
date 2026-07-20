@@ -1,1 +1,304 @@
-
+Patient_ID,Admission_Date,Discharge_Date,Age,Gender,Department,Diagnosis,Admission_Type,Length_of_Stay,Outcome,Readmission
+PAT001,2025-01-13,2025-01-25,36,Male,Surgery,Post-op recovery,Emergency,12,Recovered,No
+PAT002,2025-10-30,2025-11-06,5,Male,Surgery,Post-op recovery,Emergency,7,Recovered,No
+PAT003,2025-10-15,2025-10-19,84,Other,Pediatrics,Asthma,Urgent,4,Improved,No
+PAT004,2026-02-19,2026-03-05,1,Male,Pediatrics,Fever,Urgent,14,Improved,No
+PAT005,2026-05-06,2026-05-19,44,Male,Emergency,Acute Appendicitis,Emergency,13,Improved,Yes
+PAT006,2026-02-18,2026-02-19,59,Other,General Medicine,Urinary Tract Infection,Emergency,1,Improved,Yes
+PAT007,2025-10-23,2025-10-27,9,Male,General Medicine,Urinary Tract Infection,Urgent,4,Recovered,No
+PAT008,2026-03-20,2026-03-22,49,Female,Cardiology,Myocardial Infarction,Elective,2,Referred,No
+PAT009,2025-07-01,2025-07-05,86,Female,Emergency,Overdose,Urgent,4,Referred,No
+PAT010,2025-10-01,2025-10-13,32,Male,Pediatrics,Bronchiolitis,Elective,12,Improved,No
+PAT011,2025-12-17,2025-12-23,8,Male,Surgery,Hernia Repair,Emergency,6,Improved,No
+PAT012,2026-04-13,2026-04-23,41,Male,Cardiology,Myocardial Infarction,Urgent,10,Improved,No
+PAT013,2025-03-15,2025-03-20,18,Male,Surgery,Tumor Resection,Urgent,5,Referred,No
+PAT014,2026-04-05,2026-04-15,52,Female,Surgery,Tumor Resection,Emergency,10,Recovered,No
+PAT015,2026-03-17,2026-03-19,20,Other,Cardiology,Heart Failure,Emergency,2,Referred,No
+PAT016,2025-07-15,2025-07-25,60,Other,Cardiology,Hypertension,Elective,10,Referred,No
+PAT017,2025-12-16,2025-12-31,69,male,Cardiology,Heart Failure,Urgent,15,Improved,Yes
+PAT018,2025-08-21,2025-08-22,34,Other,Orthopedics,Osteoarthritis,Emergency,1,Referred,No
+PAT019,2026-03-07,2026-03-18,65,Other,Surgery,Gallbladder Removal,Emergency,11,Recovered,No
+PAT020,2025-11-03,2025-11-09,63,Male,Emergency,Trauma,Emergency,6,Improved,No
+PAT021,2025-01-30,2025-02-03,73,Male,General Medicine,Diabetes Mellitus,Emergency,4,Referred,No
+PAT022,2025-03-07,2025-03-18,61,Other,Cardiology,Myocardial Infarction,Emergency,11,Improved,No
+PAT023,2026-05-09,2026-05-13,70,Other,Pediatrics,Gastroenteritis,Urgent,4,Recovered,No
+PAT024,2025-08-13,2025-08-28,67,Female,Orthopedics,Scoliosis,Emergency,15,Recovered,No
+PAT025,2025-10-29,2025-11-07,30,Other,General Medicine,Pneumonia,Emergency,9,Recovered,Yes
+PAT026,2025-04-28,2025-04-30,5,Female,Surgery,Post-op recovery,Emergency,2,Referred,No
+PAT027,2025-04-20,2025-04-29,17,Other,Surgery,Tumor Resection,Urgent,9,Referred,No
+PAT028,2025-04-08,2025-04-10,13,Other,Orthopedics,Ligament Tear,Elective,2,Improved,No
+PAT029,2025-12-11,2025-12-22,83,Male,Orthopedics,Fracture,Emergency,11,Improved,No
+PAT030,2025-04-09,2025-04-13,69,Female,Cardiology,Myocardial Infarction,Emergency,4,Improved,No
+PAT031,2026-03-24,2026-04-08,10,male,Orthopedics,Osteoarthritis,Urgent,15,Recovered,Yes
+PAT032,2026-05-12,2026-05-14,31,Male,Pediatrics,Asthma,Elective,2,Improved,No
+PAT033,2025-03-26,2025-04-02,1,male,Orthopedics,Fracture,Elective,7,Improved,No
+PAT034,2025-03-21,2025-03-25,38,Male,Surgery,Tumor Resection,Emergency,4,Referred,No
+PAT035,2025-01-30,2025-01-31,75,Female,Cardiology,Atrial Fibrillation,Urgent,1,Referred,No
+PAT036,2026-03-12,2026-03-15,9,male,Pediatrics,Asthma,Emergency,3,Referred,No
+PAT037,2026-04-28,2026-05-13,73,Male,Orthopedics,Fracture,Urgent,15,Referred,Yes
+PAT038,2025-12-03,2025-12-13,73,Other,Cardiology,Hypertension,Elective,10,Improved,No
+PAT039,2025-05-03,2025-05-08,51,Male,Surgery,Gallbladder Removal,Urgent,5,Referred,No
+PAT040,2025-01-05,2025-01-13,80,Other,General Medicine,Pneumonia,Emergency,8,Recovered,No
+PAT041,2025-03-09,2025-03-24,45,Male,Pediatrics,Fever,Emergency,15,Improved,No
+PAT042,2025-11-10,2025-11-23,84,Other,cardiology,Scoliosis,Emergency,13,Referred,No
+PAT043,2026-04-26,2026-05-11,18,Female,General Medicine,Pneumonia,Emergency,15,Recovered,No
+PAT044,2025-05-25,2025-06-04,27,Other,Emergency,Overdose,Elective,10,Recovered,No
+PAT045,2025-05-09,2025-05-24,7,Male,General Medicine,Anemia,Urgent,15,Improved,No
+PAT046,2025-06-20,2025-07-03,17,Other,Cardiology,Heart Failure,Elective,13,Recovered,No
+PAT047,2025-10-15,2025-10-16,15,Male,Pediatrics,Gastroenteritis,Urgent,1,Recovered,No
+PAT048,2025-08-09,2025-08-12,6,Female,General Medicine,Diabetes Mellitus,Elective,3,Recovered,No
+PAT049,2025-12-08,2025-12-10,46,Other,Emergency,Acute Appendicitis,Elective,2,Referred,No
+PAT050,2026-05-15,2026-05-28,23,Female,Emergency,Acute Appendicitis,Emergency,13,Recovered,No
+PAT051,2026-02-15,2026-02-26,32,Female,General Medicine,Anemia,Emergency,11,Referred,Yes
+PAT052,2025-04-24,2025-04-28,59,Female,Cardiology,Hypertension,Elective,4,Recovered,No
+PAT053,2025-07-24,2025-07-30,36,Male,Surgery,Hernia Repair,Elective,6,Improved,No
+PAT054,2026-04-26,2026-04-27,15,Female,Orthopedics,Scoliosis,Emergency,1,Referred,No
+PAT055,2025-02-25,2025-03-07,56,Female,General Medicine,Pneumonia,Urgent,10,Improved,No
+PAT056,2025-07-17,2025-08-01,74,Male,Pediatrics,Asthma,Elective,15,Recovered,No
+PAT057,2025-07-06,2025-07-13,9,Other,Cardiology,Myocardial Infarction,Elective,7,Referred,No
+PAT058,2025-09-17,2025-09-22,86,Female,Cardiology,Atrial Fibrillation,Elective,5,Improved,No
+PAT059,2025-04-09,2025-04-16,86,Female,Pediatrics,Bronchiolitis,Urgent,7,Referred,No
+PAT060,2025-07-27,2025-08-05,1,Female,Pediatrics,Fever,Elective,9,Recovered,No
+PAT061,2025-08-27,2025-09-04,57,Other,Pediatrics,Fever,Emergency,8,,No
+PAT062,2025-12-04,2025-12-06,37,Other,Surgery,Hernia Repair,Urgent,2,Referred,No
+PAT063,2025-12-11,2025-12-16,29,Male,Cardiology,Myocardial Infarction,Emergency,5,Recovered,Yes
+PAT064,2025-08-22,2025-08-29,81,Other,Orthopedics,Fracture,Emergency,7,Referred,No
+PAT065,2025-05-05,2025-05-08,84,Other,Orthopedics,Ligament Tear,Emergency,3,Recovered,No
+PAT066,2026-02-16,2026-02-28,67,Female,Emergency,Acute Appendicitis,Emergency,12,Referred,No
+PAT067,2025-03-10,2025-03-23,60,Other,Cardiology,Hypertension,Urgent,13,Referred,No
+PAT068,2026-03-02,2026-03-17,71,Female,Orthopedics,Ligament Tear,Emergency,15,Referred,No
+PAT069,2026-01-20,2026-01-24,82,Female,cardiology,Scoliosis,Urgent,4,Improved,No
+PAT070,2025-02-09,2025-02-21,37,male,General Medicine,Anemia,Elective,12,Improved,No
+PAT071,2025-03-12,2025-03-15,30,Female,Pediatrics,Asthma,Urgent,3,Recovered,No
+PAT072,2025-07-28,2025-08-03,70,Female,Cardiology,Hypertension,Elective,6,Recovered,No
+PAT073,2026-04-09,2026-04-22,75,Other,Orthopedics,Ligament Tear,Emergency,13,Referred,No
+PAT074,2025-06-02,2025-06-15,50,Female,Cardiology,Atrial Fibrillation,Urgent,13,Referred,No
+PAT075,2025-09-07,2025-09-11,35,Female,Pediatrics,Bronchiolitis,Elective,4,Recovered,No
+PAT076,2026-01-06,2026-01-09,60,Male,Surgery,Tumor Resection,Urgent,3,Referred,Yes
+PAT077,2025-02-12,2025-02-23,55,Male,Orthopedics,Fracture,Elective,11,Recovered,Yes
+PAT078,2025-04-19,2025-04-27,42,Female,Orthopedics,Scoliosis,Elective,8,Improved,No
+PAT079,2026-03-04,2026-03-06,61,Male,Orthopedics,Scoliosis,Urgent,2,Referred,Yes
+PAT080,2025-11-29,2025-12-01,84,Male,General Medicine,Diabetes Mellitus,Emergency,2,Recovered,No
+PAT081,2025-05-03,2025-05-06,61,Other,Cardiology,Myocardial Infarction,Emergency,3,Referred,No
+PAT082,2026-01-28,2026-02-03,22,Other,Orthopedics,Scoliosis,Urgent,6,Referred,No
+PAT083,2025-02-25,2025-03-07,4,Female,Emergency,Overdose,Urgent,10,Referred,No
+PAT084,2026-04-28,2026-05-10,26,Male,Orthopedics,Ligament Tear,Urgent,12,Referred,No
+PAT085,2025-12-23,2026-01-05,39,Other,Emergency,Trauma,Urgent,13,Recovered,No
+PAT086,2025-06-27,2025-07-06,55,Other,Pediatrics,Asthma,Elective,9,Recovered,No
+PAT087,2026-03-11,2026-03-18,63,Male,General Medicine,Pneumonia,Elective,7,Improved,No
+PAT088,2025-08-11,2025-08-14,67,Other,Orthopedics,Osteoarthritis,Elective,3,Referred,No
+PAT089,2025-08-27,2025-09-03,76,Female,Pediatrics,Gastroenteritis,Elective,7,Recovered,No
+PAT090,2026-03-28,2026-04-05,32,Female,Cardiology,Atrial Fibrillation,Urgent,8,Referred,No
+PAT091,2025-09-11,2025-09-25,42,Male,General Medicine,Pneumonia,Elective,14,Recovered,No
+PAT092,2025-05-24,2025-06-08,77,Other,General Medicine,Urinary Tract Infection,Elective,15,,Yes
+PAT093,2025-05-04,2025-05-16,53,male,Emergency,Trauma,Urgent,12,Recovered,No
+PAT094,2025-08-18,2025-08-31,3,Male,Surgery,Tumor Resection,Elective,13,Recovered,No
+PAT095,2025-12-06,2025-12-16,48,Female,Emergency,Overdose,Urgent,10,Referred,No
+PAT096,2025-06-30,2025-07-12,59,Female,Surgery,Gallbladder Removal,Elective,12,Improved,No
+PAT097,2025-06-11,2025-06-13,69,Other,Surgery,Hernia Repair,Emergency,2,Recovered,No
+PAT098,2026-01-06,2026-01-16,68,Other,Orthopedics,Scoliosis,Elective,10,Recovered,No
+PAT099,2025-07-04,2025-07-07,39,Male,General Medicine,Diabetes Mellitus,Urgent,3,Referred,Yes
+PAT100,2025-10-11,2025-10-16,90,Male,Cardiology,Heart Failure,Urgent,5,Improved,Yes
+PAT101,2025-08-29,2025-09-06,57,Female,Cardiology,Atrial Fibrillation,Emergency,8,Recovered,No
+PAT102,2026-02-25,2026-02-27,52,Female,Orthopedics,Fracture,Emergency,2,Referred,No
+PAT103,2025-03-18,2025-03-31,73,Female,Cardiology,Myocardial Infarction,Emergency,13,Recovered,Yes
+PAT104,2026-02-02,2026-02-11,49,Female,Orthopedics,Osteoarthritis,Elective,9,Improved,No
+PAT105,2025-10-19,2025-10-29,8,Other,Orthopedics,Scoliosis,Urgent,10,Recovered,No
+PAT106,2025-05-16,2025-05-27,11,Male,Emergency,Acute Appendicitis,Emergency,11,Recovered,No
+PAT107,2025-07-29,2025-08-06,89,Other,Emergency,Trauma,Elective,8,Improved,Yes
+PAT108,2025-12-26,2026-01-09,59,Male,General Medicine,Urinary Tract Infection,Urgent,14,Recovered,No
+PAT109,2025-08-06,2025-08-08,70,Male,Surgery,Hernia Repair,Urgent,2,Recovered,No
+PAT110,2025-01-31,2025-02-03,40,Other,Emergency,Trauma,Urgent,3,Referred,No
+PAT111,2025-08-28,2025-09-09,39,Other,Orthopedics,Fracture,Elective,12,Improved,No
+PAT112,2025-02-11,2025-02-21,6,Female,Orthopedics,Ligament Tear,Urgent,10,Improved,No
+PAT113,2025-04-28,2025-05-09,74,Other,Cardiology,Heart Failure,Emergency,11,Referred,No
+PAT114,2026-01-26,2026-02-08,23,Female,Pediatrics,Asthma,Urgent,13,Referred,No
+PAT115,2025-10-27,2025-11-03,82,Female,General Medicine,Diabetes Mellitus,Emergency,7,Improved,No
+PAT116,2025-12-10,2025-12-12,21,Female,General Medicine,Urinary Tract Infection,Elective,2,Referred,No
+PAT117,2026-02-21,2026-03-06,71,Male,Surgery,Tumor Resection,Elective,13,Recovered,No
+PAT118,2026-05-12,2026-05-25,52,Other,General Medicine,Pneumonia,Emergency,13,Referred,No
+PAT119,2025-01-28,2025-02-01,67,Female,Orthopedics,Ligament Tear,Urgent,4,Improved,No
+PAT120,2025-05-17,2025-05-26,17,Female,Cardiology,Myocardial Infarction,Elective,9,Referred,No
+PAT121,2025-12-30,2026-01-02,40,Other,Cardiology,Myocardial Infarction,Emergency,3,Referred,No
+PAT122,2025-08-25,2025-08-27,83,Male,Emergency,Trauma,Elective,2,Referred,No
+PAT123,2025-08-01,2025-08-15,62,Female,Surgery,Gallbladder Removal,Emergency,14,Improved,No
+PAT124,2026-04-17,2026-04-27,66,Other,Orthopedics,Osteoarthritis,Emergency,10,Recovered,No
+PAT125,2026-04-24,2026-05-07,65,Female,Orthopedics,Scoliosis,Emergency,13,Improved,No
+PAT126,2026-03-20,2026-03-23,58,Other,Pediatrics,Gastroenteritis,Elective,3,Improved,No
+PAT127,2025-08-22,2025-09-06,42,Male,Pediatrics,Gastroenteritis,Urgent,15,Recovered,No
+PAT128,2025-01-23,2025-01-29,61,Other,Emergency,Severe Allergic Reaction,Elective,6,Improved,No
+PAT129,2025-09-11,2025-09-12,17,Other,Surgery,Hernia Repair,Urgent,1,Improved,No
+PAT130,2025-09-27,2025-10-12,59,Male,Orthopedics,Fracture,Urgent,15,Recovered,No
+PAT131,2025-02-08,2025-02-16,34,Female,Surgery,Hernia Repair,Urgent,8,Referred,No
+PAT132,2026-03-13,2026-03-24,69,Female,Cardiology,Atrial Fibrillation,Elective,11,Referred,No
+PAT133,2025-11-13,2025-11-15,31,Other,Orthopedics,Fracture,Urgent,2,Improved,No
+PAT134,2025-08-11,2025-08-13,82,Other,Surgery,Post-op recovery,Emergency,2,Improved,No
+PAT135,2025-01-24,2025-01-30,8,Female,General Medicine,Pneumonia,Elective,6,Improved,No
+PAT136,2025-10-17,2025-10-28,24,Male,Emergency,Severe Allergic Reaction,Emergency,11,Recovered,No
+PAT137,2025-09-12,2025-09-27,75,Male,Orthopedics,Osteoarthritis,Emergency,15,Improved,No
+PAT138,2025-12-08,2025-12-09,60,Female,Orthopedics,Scoliosis,Urgent,1,Referred,No
+PAT139,2025-10-28,2025-11-02,82,Female,Orthopedics,Scoliosis,Urgent,5,Improved,No
+PAT140,2025-07-16,2025-07-30,62,Male,General Medicine,Diabetes Mellitus,Emergency,14,Improved,No
+PAT141,2025-12-25,2025-12-30,3,Other,Pediatrics,Fever,Elective,5,Improved,Yes
+PAT142,2026-04-12,2026-04-22,64,Female,Surgery,Post-op recovery,Emergency,10,Referred,No
+PAT143,2025-11-14,2025-11-19,87,Other,Emergency,Acute Appendicitis,Urgent,5,Referred,No
+PAT144,2026-04-08,2026-04-19,83,Male,Surgery,Post-op recovery,Elective,11,Improved,Yes
+PAT145,2025-02-16,2025-03-03,38,Female,General Medicine,Diabetes Mellitus,Urgent,15,Improved,No
+PAT146,2025-09-29,2025-10-08,35,Male,Emergency,Overdose,Elective,9,Improved,No
+PAT147,2026-02-16,2026-02-18,60,male,General Medicine,Urinary Tract Infection,Emergency,2,Recovered,No
+PAT148,2026-05-11,2026-05-25,72,Female,Surgery,Tumor Resection,Emergency,14,Improved,Yes
+PAT149,2025-08-21,2025-08-27,87,Other,Pediatrics,Asthma,Urgent,6,Improved,No
+PAT150,2025-02-25,2025-03-08,30,Female,Surgery,Gallbladder Removal,Emergency,11,Referred,No
+PAT151,2026-04-14,2026-04-24,29,Other,Pediatrics,Fever,Emergency,10,Referred,No
+PAT152,2025-11-29,2025-12-06,15,Male,Surgery,Gallbladder Removal,Emergency,7,Recovered,No
+PAT153,2025-02-19,2025-02-23,69,Male,Orthopedics,Fracture,Elective,4,Improved,No
+PAT154,2025-10-28,2025-11-09,20,Female,Surgery,Tumor Resection,Urgent,12,Recovered,No
+PAT155,2026-04-26,2026-05-01,5,Other,Pediatrics,Gastroenteritis,Elective,5,Recovered,No
+PAT156,2025-02-20,2025-03-03,48,Other,Emergency,Overdose,Urgent,11,Improved,Yes
+PAT157,2026-05-11,2026-05-13,59,Male,General Medicine,Diabetes Mellitus,Urgent,2,Recovered,No
+PAT158,2025-01-26,2025-02-08,43,Male,Pediatrics,Asthma,Emergency,13,Referred,No
+PAT159,2025-10-28,2025-11-01,30,Female,Pediatrics,Bronchiolitis,Emergency,4,Referred,Yes
+PAT160,2025-10-04,2025-10-09,23,Male,Emergency,Acute Appendicitis,Urgent,5,Recovered,Yes
+PAT161,2025-10-29,2025-11-04,3,Male,General Medicine,Diabetes Mellitus,Elective,6,Recovered,Yes
+PAT162,2026-01-17,2026-01-19,61,Female,Orthopedics,Fracture,Elective,2,Referred,No
+PAT163,2026-04-30,2026-05-10,6,Other,Orthopedics,Osteoarthritis,Urgent,10,Referred,No
+PAT164,2025-02-01,2025-02-09,52,Female,Surgery,Post-op recovery,Urgent,8,Recovered,No
+PAT165,2026-04-06,2026-04-08,42,Other,Orthopedics,Fracture,Emergency,2,Recovered,Yes
+PAT166,2025-07-15,2025-07-25,68,Female,Pediatrics,Fever,Elective,10,Referred,No
+PAT167,2026-03-13,2026-03-24,84,Other,Cardiology,Heart Failure,Urgent,11,Recovered,No
+PAT168,2025-06-23,2025-07-07,59,Female,Emergency,Severe Allergic Reaction,Elective,14,Referred,Yes
+PAT169,2025-12-07,2025-12-12,48,Male,Orthopedics,Scoliosis,Urgent,5,Improved,Yes
+PAT170,2025-08-10,2025-08-12,48,Male,Cardiology,Heart Failure,Urgent,2,Recovered,No
+PAT171,2025-12-10,2025-12-12,53,Female,Pediatrics,Fever,Urgent,2,Improved,No
+PAT172,2026-05-11,2026-05-16,77,Female,Surgery,Post-op recovery,Elective,5,Recovered,No
+PAT173,2025-12-03,2025-12-11,29,Male,Emergency,Acute Appendicitis,Elective,8,Referred,No
+PAT174,2026-02-18,2026-02-25,72,Other,General Medicine,Diabetes Mellitus,Urgent,7,Referred,No
+PAT175,2025-01-15,2025-01-18,35,Other,Cardiology,Atrial Fibrillation,Elective,3,Improved,No
+PAT176,2025-10-17,2025-10-28,52,Male,Emergency,Acute Appendicitis,Emergency,11,Referred,No
+PAT177,2026-01-18,2026-01-27,28,Female,Cardiology,Heart Failure,Elective,9,Improved,No
+PAT178,2026-01-05,2026-01-11,73,Other,General Medicine,Urinary Tract Infection,Emergency,6,Recovered,No
+PAT179,2025-12-12,2025-12-14,35,Female,cardiology,Asthma,Urgent,2,Improved,No
+PAT180,2025-05-20,2025-05-24,66,Male,Orthopedics,Ligament Tear,Elective,4,Improved,Yes
+PAT181,2025-09-27,2025-10-08,40,Male,Surgery,Tumor Resection,Emergency,11,Improved,No
+PAT182,2025-04-15,2025-04-20,28,Male,Cardiology,Heart Failure,Elective,5,Improved,No
+PAT183,2026-01-18,2026-01-25,23,Male,Cardiology,Hypertension,Elective,7,Referred,No
+PAT184,2025-02-06,2025-02-13,6,Female,Pediatrics,Fever,Emergency,7,Improved,No
+PAT185,2025-10-21,2025-10-28,82,Female,General Medicine,Anemia,Elective,7,Recovered,No
+PAT186,2026-02-15,2026-02-25,59,Other,General Medicine,Diabetes Mellitus,Elective,10,Recovered,No
+PAT187,2025-08-12,2025-08-22,52,Other,Cardiology,Myocardial Infarction,Emergency,10,Improved,No
+PAT188,2025-04-24,2025-04-30,22,Male,Surgery,Gallbladder Removal,Urgent,6,Referred,Yes
+PAT189,2026-04-09,2026-04-22,45,Female,Pediatrics,Bronchiolitis,Urgent,13,Referred,No
+PAT190,2025-03-16,2025-03-21,26,Male,Emergency,Trauma,Urgent,5,Recovered,No
+PAT191,2025-04-01,2025-04-14,81,Female,Surgery,Post-op recovery,Elective,13,Referred,No
+PAT192,2026-03-19,2026-03-30,41,Male,cardiology,Scoliosis,Elective,11,Recovered,No
+PAT193,2026-02-12,2026-02-17,76,Male,cardiology,Gallbladder Removal,Elective,5,Referred,Yes
+PAT194,2025-01-20,2025-01-21,48,Female,cardiology,Ligament Tear,Emergency,1,Referred,No
+PAT195,2025-08-25,2025-09-04,71,Other,Cardiology,Hypertension,Emergency,10,Improved,No
+PAT196,2025-06-14,2025-06-24,61,Other,cardiology,Bronchiolitis,Emergency,10,Recovered,No
+PAT197,2025-09-16,2025-09-27,23,Male,General Medicine,Pneumonia,Emergency,11,Referred,No
+PAT198,2025-07-06,2025-07-12,37,Female,Orthopedics,Osteoarthritis,Elective,6,Improved,No
+PAT199,2025-02-03,2025-02-09,13,Other,Cardiology,Atrial Fibrillation,Urgent,6,Improved,No
+PAT200,2025-06-20,2025-06-22,75,Other,Surgery,Hernia Repair,Emergency,2,Improved,No
+PAT201,2025-03-08,2025-03-18,11,Female,Surgery,Tumor Resection,Urgent,10,Improved,No
+PAT202,2025-12-10,2025-12-22,88,Other,General Medicine,Diabetes Mellitus,Emergency,12,,No
+PAT203,2025-01-10,2025-01-16,40,Male,Pediatrics,Fever,Emergency,6,Improved,No
+PAT204,2025-04-26,2025-04-29,20,Male,Orthopedics,Osteoarthritis,Elective,3,Recovered,No
+PAT205,2025-12-05,2025-12-11,80,Male,Pediatrics,Asthma,Urgent,6,Improved,No
+PAT206,2026-01-05,2026-01-13,6,Female,Emergency,Acute Appendicitis,Elective,8,Referred,No
+PAT207,2026-01-21,2026-02-02,58,Male,Orthopedics,Scoliosis,Urgent,12,Recovered,No
+PAT208,2025-07-08,2025-07-19,74,Female,Orthopedics,Osteoarthritis,Elective,11,Improved,No
+PAT209,2026-05-10,2026-05-13,26,Other,Pediatrics,Gastroenteritis,Emergency,3,Improved,Yes
+PAT210,2025-10-11,2025-10-26,14,male,Orthopedics,Scoliosis,Urgent,15,Recovered,No
+PAT211,2025-08-19,2025-09-03,66,Male,Emergency,Overdose,Elective,15,Recovered,No
+PAT212,2026-03-29,2026-04-04,4,Female,Emergency,Severe Allergic Reaction,Emergency,6,Improved,No
+PAT213,2025-02-11,2025-02-17,29,Male,Emergency,Severe Allergic Reaction,Elective,6,Recovered,No
+PAT214,2026-02-10,2026-02-13,18,Male,Surgery,Gallbladder Removal,Elective,3,Improved,No
+PAT215,2025-08-18,2025-08-28,1,Male,Emergency,Severe Allergic Reaction,Emergency,10,Improved,No
+PAT216,2025-02-26,2025-03-11,37,Male,cardiology,Severe Allergic Reaction,Elective,13,Recovered,Yes
+PAT217,2025-02-02,2025-02-04,64,Other,Orthopedics,Ligament Tear,Urgent,2,Recovered,No
+PAT218,2026-01-03,2026-01-06,38,Female,Pediatrics,Bronchiolitis,Emergency,3,Referred,No
+PAT219,2025-04-06,2025-04-17,86,Male,Pediatrics,Gastroenteritis,Urgent,11,Improved,Yes
+PAT220,2025-07-19,2025-08-02,61,Male,Pediatrics,Asthma,Urgent,14,Improved,No
+PAT221,2025-07-02,2025-07-15,9,Female,General Medicine,Pneumonia,Emergency,13,Referred,No
+PAT222,2025-03-10,2025-03-11,46,Other,Cardiology,Atrial Fibrillation,Elective,1,Referred,No
+PAT223,2025-12-23,2025-12-31,81,Male,Surgery,Tumor Resection,Emergency,8,Recovered,No
+PAT224,2025-05-31,2025-06-04,6,Male,Orthopedics,Fracture,Emergency,4,Improved,No
+PAT225,2026-02-22,2026-03-03,61,Female,Pediatrics,Gastroenteritis,Emergency,9,Referred,No
+PAT226,2026-03-20,2026-03-31,43,Female,General Medicine,Pneumonia,Emergency,11,Improved,No
+PAT227,2026-04-04,2026-04-11,44,Male,Orthopedics,Ligament Tear,Elective,7,Referred,No
+PAT228,2026-02-15,2026-02-17,55,Male,Pediatrics,Fever,Elective,2,Referred,No
+PAT229,2025-06-14,2025-06-16,11,Female,Emergency,Overdose,Urgent,2,Improved,No
+PAT230,2025-03-27,2025-04-08,57,Female,cardiology,Gastroenteritis,Elective,12,Recovered,No
+PAT231,2025-05-21,2025-06-01,8,Male,General Medicine,Anemia,Urgent,11,Referred,No
+PAT232,2026-05-03,2026-05-04,19,Other,Pediatrics,Bronchiolitis,Urgent,1,Improved,Yes
+PAT233,2026-02-03,2026-02-14,47,Female,Cardiology,Myocardial Infarction,Elective,11,Referred,Yes
+PAT234,2026-05-01,2026-05-07,48,Female,Emergency,Severe Allergic Reaction,Emergency,6,Referred,Yes
+PAT235,2025-06-10,2025-06-21,36,Male,General Medicine,Anemia,Emergency,11,Recovered,No
+PAT236,2026-04-13,2026-04-22,16,Female,Orthopedics,Ligament Tear,Elective,9,Referred,No
+PAT237,2025-12-22,2026-01-06,63,Male,Pediatrics,Fever,Emergency,15,Recovered,No
+PAT238,2026-04-06,2026-04-18,57,Male,Orthopedics,Osteoarthritis,Urgent,12,Improved,No
+PAT239,2025-10-09,2025-10-18,38,Female,Surgery,Post-op recovery,Emergency,9,Referred,No
+PAT240,2026-02-11,2026-02-17,66,Male,Surgery,Hernia Repair,Emergency,6,Recovered,No
+PAT241,2025-01-14,2025-01-20,71,Other,Emergency,Severe Allergic Reaction,Elective,6,Improved,No
+PAT242,2025-11-10,2025-11-25,12,male,Pediatrics,Bronchiolitis,Elective,15,Improved,No
+PAT243,2025-09-27,2025-10-04,53,Other,Surgery,Tumor Resection,Emergency,7,Recovered,No
+PAT244,2025-08-19,2025-08-27,88,Other,Surgery,Post-op recovery,Elective,8,Recovered,No
+PAT245,2026-01-29,2026-02-01,56,Other,Pediatrics,Bronchiolitis,Emergency,3,Recovered,No
+PAT246,2025-03-24,2025-03-30,29,Female,General Medicine,Diabetes Mellitus,Urgent,6,Improved,No
+PAT247,2025-11-22,2025-12-01,36,Male,General Medicine,Diabetes Mellitus,Urgent,9,Improved,No
+PAT248,2025-10-31,2025-11-10,20,Male,Cardiology,Myocardial Infarction,Urgent,10,Referred,No
+PAT249,2026-03-08,2026-03-23,73,Male,Pediatrics,Fever,Emergency,15,Recovered,Yes
+PAT250,2025-11-30,2025-12-04,74,Female,Surgery,Gallbladder Removal,Urgent,4,Referred,Yes
+PAT251,2025-11-25,2025-11-30,62,Male,Surgery,Gallbladder Removal,Urgent,5,Improved,No
+PAT252,2025-03-22,2025-03-30,54,Female,Cardiology,Heart Failure,Elective,8,Recovered,No
+PAT253,2026-03-18,2026-03-30,41,Other,Emergency,Overdose,Elective,12,Improved,Yes
+PAT254,2025-06-13,2025-06-17,60,Male,General Medicine,Pneumonia,Elective,4,Improved,No
+PAT255,2025-05-29,2025-06-05,79,Female,Cardiology,Heart Failure,Emergency,7,Recovered,No
+PAT256,2025-04-08,2025-04-21,21,Female,Pediatrics,Fever,Urgent,13,Improved,No
+PAT257,2025-01-12,2025-01-14,51,Other,General Medicine,Anemia,Elective,2,Recovered,No
+PAT258,2025-01-26,2025-01-31,64,Other,General Medicine,Pneumonia,Urgent,5,Referred,No
+PAT259,2026-03-10,2026-03-12,56,Male,Pediatrics,Asthma,Elective,2,Referred,No
+PAT260,2025-01-24,2025-01-31,7,Other,Orthopedics,Scoliosis,Urgent,7,Recovered,No
+PAT261,2025-07-17,2025-07-26,58,Other,General Medicine,Pneumonia,Elective,9,Referred,No
+PAT262,2026-05-15,2026-05-17,51,Female,Cardiology,Myocardial Infarction,Elective,2,Referred,No
+PAT263,2025-11-05,2025-11-14,52,Other,Emergency,Acute Appendicitis,Emergency,9,Recovered,Yes
+PAT264,2026-02-16,2026-02-24,67,Female,Surgery,Gallbladder Removal,Emergency,8,Referred,No
+PAT265,2026-04-22,2026-05-02,41,Male,Emergency,Overdose,Elective,10,Referred,No
+PAT266,2025-09-17,2025-10-01,66,Other,General Medicine,Urinary Tract Infection,Elective,14,Referred,No
+PAT267,2025-07-08,2025-07-14,87,Male,Orthopedics,Fracture,Elective,6,Referred,No
+PAT268,2025-11-02,2025-11-10,34,Other,Surgery,Post-op recovery,Urgent,8,Referred,No
+PAT269,2025-03-29,2025-04-07,81,Other,Cardiology,Hypertension,Urgent,9,Improved,Yes
+PAT270,2025-01-17,2025-01-27,90,Male,Surgery,Hernia Repair,Emergency,10,Recovered,No
+PAT271,2025-07-31,2025-08-12,27,Female,Orthopedics,Osteoarthritis,Urgent,12,,No
+PAT272,2025-12-28,2025-12-31,67,Male,Surgery,Post-op recovery,Urgent,3,Improved,No
+PAT273,2025-06-10,2025-06-13,59,Other,Orthopedics,Ligament Tear,Elective,3,Referred,No
+PAT274,2025-11-09,2025-11-17,25,Male,Surgery,Gallbladder Removal,Elective,8,Referred,No
+PAT275,2025-12-27,2025-12-31,89,Other,General Medicine,Urinary Tract Infection,Elective,4,Improved,No
+PAT276,2025-05-28,2025-05-30,74,Other,Pediatrics,Fever,Urgent,2,,No
+PAT277,2026-05-04,2026-05-17,19,Female,cardiology,Scoliosis,Emergency,13,Improved,No
+PAT278,2026-04-19,2026-04-27,84,male,Cardiology,Atrial Fibrillation,Urgent,8,Improved,No
+PAT279,2026-04-23,2026-05-02,90,Female,Pediatrics,Fever,Emergency,9,Recovered,No
+PAT280,2025-05-05,2025-05-06,86,Other,Pediatrics,Bronchiolitis,Emergency,1,Referred,No
+PAT281,2025-06-19,2025-07-01,61,Male,Cardiology,Hypertension,Urgent,12,Recovered,Yes
+PAT282,2025-07-28,2025-08-08,61,Female,Pediatrics,Bronchiolitis,Urgent,11,Recovered,No
+PAT283,2025-05-27,2025-06-07,8,Male,General Medicine,Urinary Tract Infection,Urgent,11,Referred,No
+PAT284,2026-04-13,2026-04-28,23,Female,Surgery,Post-op recovery,Emergency,15,Recovered,No
+PAT285,2025-04-06,2025-04-21,38,Male,Orthopedics,Ligament Tear,Emergency,15,Improved,No
+PAT286,2025-05-26,2025-06-03,83,Other,Cardiology,Atrial Fibrillation,Urgent,8,Improved,No
+PAT287,2025-05-20,2025-05-24,15,Female,Emergency,Severe Allergic Reaction,Emergency,4,Referred,No
+PAT288,2025-01-08,2025-01-20,44,Female,General Medicine,Diabetes Mellitus,Urgent,12,Referred,No
+PAT289,2026-02-28,2026-03-07,66,Female,Emergency,Severe Allergic Reaction,Emergency,7,Improved,No
+PAT290,2025-09-02,2025-09-08,32,Male,Emergency,Acute Appendicitis,Elective,6,Improved,No
+PAT291,2025-06-04,2025-06-14,74,Male,General Medicine,Urinary Tract Infection,Elective,10,Referred,No
+PAT292,2025-12-08,2025-12-10,60,Female,Emergency,Trauma,Emergency,2,Improved,No
+PAT293,2025-12-20,2025-12-22,82,Female,Surgery,Gallbladder Removal,Elective,2,Referred,No
+PAT294,2025-03-20,2025-03-28,78,Female,Emergency,Severe Allergic Reaction,Elective,8,Referred,No
+PAT295,2026-01-26,2026-01-30,88,Other,Orthopedics,Osteoarthritis,Emergency,4,Referred,No
+PAT296,2025-02-09,2025-02-24,73,Male,Surgery,Gallbladder Removal,Emergency,15,Referred,No
+PAT297,2025-03-26,2025-04-01,67,Female,Emergency,Acute Appendicitis,Emergency,6,Referred,No
+PAT298,2025-02-16,2025-03-03,66,Female,Pediatrics,Gastroenteritis,Emergency,15,Improved,Yes
+PAT299,2025-10-16,2025-10-17,72,Female,Orthopedics,Ligament Tear,Urgent,1,Improved,No
+PAT300,2026-02-23,2026-02-24,28,Other,Orthopedics,Scoliosis,Emergency,1,Recovered,No
+PAT204,2025-04-26,2025-04-29,20,Male,Orthopedics,Osteoarthritis,Elective,3,Recovered,No
+PAT267,2025-07-08,2025-07-14,87,Male,Orthopedics,Fracture,Elective,6,Referred,No
+PAT153,2025-02-19,2025-02-23,69,Male,Orthopedics,Fracture,Elective,4,Improved,No
